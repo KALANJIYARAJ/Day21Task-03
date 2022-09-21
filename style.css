@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+.col-12{
+  margin-top:25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rounded{
+    border:10px solid white;
+    max-width:350px;
+    max-height: 700px;
+}
